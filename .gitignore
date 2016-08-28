@@ -1,1 +1,6 @@
-.sass-cache
+_site/
+.sass-cache/
+css/*.map
+.DS_Store
+node_modules/
+.jekyll-metadata
