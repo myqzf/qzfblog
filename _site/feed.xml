@@ -1,11 +1,11 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>qzf</title>
+    <title>qzfblog</title>
     <description>Write an awesome description for your new site here. You can edit this line in _config.yml.
 </description>
-    <link>http://yourdomain.com/qzf//</link>
-    <atom:link href="http://yourdomain.com/qzf//feed.xml" rel="self" type="application/rss+xml"/>
+    <link>http://yourdomain.com/qzfblog//</link>
+    <atom:link href="http://yourdomain.com/qzfblog//feed.xml" rel="self" type="application/rss+xml"/>
     <pubDate>Sun, 28 Aug 2016 21:47:14 +0800</pubDate>
     <lastBuildDate>Sun, 28 Aug 2016 21:47:14 +0800</lastBuildDate>
     <generator>Jekyll v3.2.1</generator>
@@ -45,8 +45,8 @@ Lorem ipsum dolor sit amet, consectetur adipiscing elit. Donec at mauris ante. C
 
 </description>
         <pubDate>Sun, 27 Sep 2015 02:51:59 +0800</pubDate>
-        <link>http://yourdomain.com/qzf//jekyll/update/2015/09/27/clean-theme.html</link>
-        <guid isPermaLink="true">http://yourdomain.com/qzf//jekyll/update/2015/09/27/clean-theme.html</guid>
+        <link>http://yourdomain.com/qzfblog//jekyll/update/2015/09/27/clean-theme.html</link>
+        <guid isPermaLink="true">http://yourdomain.com/qzfblog//jekyll/update/2015/09/27/clean-theme.html</guid>
         
         
         <category>jekyll</category>
@@ -60,8 +60,8 @@ Lorem ipsum dolor sit amet, consectetur adipiscing elit. Donec at mauris ante. C
         <description>&lt;p&gt;Hello Jekyll&lt;/p&gt;
 </description>
         <pubDate>Sat, 26 Sep 2015 00:00:00 +0800</pubDate>
-        <link>http://yourdomain.com/qzf//jekyll/update/2015/09/26/hello.html</link>
-        <guid isPermaLink="true">http://yourdomain.com/qzf//jekyll/update/2015/09/26/hello.html</guid>
+        <link>http://yourdomain.com/qzfblog//jekyll/update/2015/09/26/hello.html</link>
+        <guid isPermaLink="true">http://yourdomain.com/qzfblog//jekyll/update/2015/09/26/hello.html</guid>
         
         
         <category>jekyll</category>
@@ -75,8 +75,8 @@ Lorem ipsum dolor sit amet, consectetur adipiscing elit. Donec at mauris ante. C
         <description>&lt;p&gt;Hello Jekyll&lt;/p&gt;
 </description>
         <pubDate>Sat, 26 Sep 2015 00:00:00 +0800</pubDate>
-        <link>http://yourdomain.com/qzf//jekyll/update/2015/09/26/hello-%E5%89%AF%E6%9C%AC.html</link>
-        <guid isPermaLink="true">http://yourdomain.com/qzf//jekyll/update/2015/09/26/hello-%E5%89%AF%E6%9C%AC.html</guid>
+        <link>http://yourdomain.com/qzfblog//jekyll/update/2015/09/26/hello-%E5%89%AF%E6%9C%AC.html</link>
+        <guid isPermaLink="true">http://yourdomain.com/qzfblog//jekyll/update/2015/09/26/hello-%E5%89%AF%E6%9C%AC.html</guid>
         
         
         <category>jekyll</category>
