@@ -3,9 +3,8 @@
 
   {% include head.html %}
 
-  <body>
-   <header id="header" style="background-image:url('image.jpg');">
-  
+  <body >
+
     <div class="cover">
       <div class="clock"></div>
       <div class='hours'></div>
@@ -20,7 +19,7 @@
       </div>
     </div>
 
-   
+    <header class="site-header" style="background-image:url('image.jpg');" >
 
       <div class="wrapper">
 
@@ -32,13 +31,11 @@
             {% endfor %}
         </nav>
       </div>
-      </header>
-  <main id="main">
+    </header>
     <div class="page-content">
         {{ content }}
     </div>
-  </main>
-  
+
 <script>
   setInterval(function() {
     var seconds = new Date().getSeconds();
