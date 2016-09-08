@@ -3,9 +3,8 @@
 
   {% include head.html %}
 
-  <body >
-
-   <header class="site-header" style="background-image:url('image.jpg');" >
+  <body>
+   <header id="header" style="background-image:url('image.jpg');">
     <div class="cover">
       <div class="clock"></div>
       <div class='hours'></div>
@@ -20,7 +19,7 @@
       </div>
     </div>
 
-   
+    <header class="site-header" >
 
       <div class="wrapper">
 
@@ -32,7 +31,8 @@
             {% endfor %}
         </nav>
       </div>
-    </header>
+      </header>
+	</header>
     <div class="page-content">
         {{ content }}
     </div>
